@@ -45,6 +45,7 @@ members = [
     "crates/experimental/lionsos/sys",
     "crates/experimental/sddf",
     "crates/experimental/sddf/ipc-types",
+    "crates/experimental/sddf/pure-rust",
     "crates/experimental/sddf/sys",
     "crates/experimental/sel4-abstract-allocator",
     "crates/experimental/sel4-abstract-allocator/offset-allocator",

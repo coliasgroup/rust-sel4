@@ -2188,6 +2188,20 @@ dependencies = [
 ]
 
 [[package]]
+name = "sddf-pure-rust"
+version = "0.1.0"
+dependencies = [
+ "num_enum",
+ "ptr_meta",
+ "sddf-ipc-types",
+ "sddf-sys",
+ "sel4-config",
+ "sel4-immutable-cell",
+ "sel4-microkit-base",
+ "sel4-shared-memory",
+]
+
+[[package]]
 name = "sddf-sys"
 version = "0.1.0"
 dependencies = [
